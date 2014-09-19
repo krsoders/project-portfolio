@@ -1,0 +1,17 @@
+/*
+Lavendar - #DBD2E3
+Steel Purple - #A9BBD3 
+good purple - #A4A3CD
+*/
+
+a {color: #DBD2E3;}
+h1 {color: #DBD2E3;}
+h2{color: #A4A3CD;}
+body {background-color: #414140; color: #A9BBD3;}
+
+.color1{width:200px;
+height: 200px; background-color:#DBD2E3; }
+.color2{width:200px;
+height: 200px; background-color:#A9BBD3; }
+.color3{width:200px;
+height: 200px; background-color:#A4A3CD; }
