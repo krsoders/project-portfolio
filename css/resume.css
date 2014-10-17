@@ -4,21 +4,15 @@
 
 header {color:silver;}
 a {color: #DAB3B8;}
-h1 {font-family: 'Handlee', cursive; color: #5F797B;}
-h2{color: #51A1A5;}
-h3{color:#5F797B  ;}
-body{font-family:'Handlee', "Times New Roman", serif;
+h1 {font-size: 3em; font-family: 'Handlee', cursive; color: #5F797B;}
+h2{font-size: 2em; color: #51A1A5;}
+h3{font-size: 1.5em; color:#5F797B  ;}
+body{font-size: 1em; font-family:'Handlee', "Times New Roman", serif;
 
 background-color: white; color: #8CA8A8;  margin: 0;
     padding: 0; text-align: center
 }
 
-.color1{width:200px;
-height: 200px; background-color:#7D2D61; }
-.color2{width:200px;
-height: 200px; background-color:#A9BBD3; }
-.color3{width:200px;
-height: 200px; background-color:#A4A3CD; }
 
 
 .site-footer a{
