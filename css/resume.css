@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Handlee);
+
+
+
+header {color:silver;}
+a {color: #DAB3B8;}
+h1 {font-family: 'Handlee', cursive; color: #5F797B;}
+h2{color: #51A1A5;}
+h3{color:#5F797B  ;}
+body{font-family:'Handlee', "Times New Roman", serif;
+
+background-color: white; color: #8CA8A8;  margin: 0;
+    padding: 0; text-align: center
+}
+
+.color1{width:200px;
+height: 200px; background-color:#7D2D61; }
+.color2{width:200px;
+height: 200px; background-color:#A9BBD3; }
+.color3{width:200px;
+height: 200px; background-color:#A4A3CD; }
+
+
+.site-footer a{
+font-size: 1em;
+color: violet;
+    text-decoration: none;
+    
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: #b0e0e6;
+}
+
+body {
+    background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Floral-Grey-Seamless-Pattern-For-Website-Background.jpg);
+}
