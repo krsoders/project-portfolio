@@ -3,14 +3,15 @@
 
 
 header {color:silver;}
-a {color: #DAB3B8;}
+a {color: #51A1A5;}
 h1 {font-size: 3em; font-family: 'Handlee', cursive; color: #5F797B;}
 h2{font-size: 2em; color: #51A1A5;}
 h3{font-size: 1.5em; color:#5F797B  ;}
+ol{text-align:left;}
 body{font-size: 1em; font-family:'Handlee', "Times New Roman", serif;
 
 background-color: white; color: #8CA8A8;  margin: 0;
-    padding: 0; text-align: center
+    padding: 0; text-align: center;
 }
 
 
@@ -29,7 +30,21 @@ color: violet;
     background-color: #b0e0e6;
 }
 
+.video1{width:100%;
+height: 100%; border: width:100%;
+height: 100%;border-style: dashed; color:navy;}
+.video2{width:100%;
+height: 100%; width:100%;
+height: 100%;border-style: dotted; color:royalblue;}
+.video3{width:100%;
+height: 100%; width:100%;
+height: 100%;border-style:double; color:steelblue;}
+
 body {
     
     background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Floral-Grey-Seamless-Pattern-For-Website-Background.jpg);
+}
+
+a:hover{
+color: aqua; text-decoration: underline;
 }
