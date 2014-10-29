@@ -1,8 +1,3 @@
-/*
-Lavendar - #DBD2E3
-Steel Purple - #A9BBD3 
-good purple - #A4A3CD
-*/
 
 @import url(http://fonts.googleapis.com/css?family=Handlee);
 
@@ -36,3 +31,5 @@ color: violet;
 .site-footer a:hover{
 color: pink; text-decoration: underline;
 }
+
+
