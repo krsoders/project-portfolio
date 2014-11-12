@@ -1,0 +1,18 @@
+header {color:silver;}
+a {color: #DBD2E3;}
+a:hover {
+	color: violet;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1 {font-family: 'Handlee', cursive; color: #DBD2E3;}
+h2{color: #A4A3CD;}
+h3{color:#A4A3CD;}
+body{font-family:'Handlee', cursive, "Times New Roman", serif;
+
+background-color: #414140; color: white;}
+
+.scaled-image{
+  max-width: 100%;
+  height: auto;
+}

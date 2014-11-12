@@ -6,34 +6,109 @@ good purple - #A4A3CD
 
 @import url(http://fonts.googleapis.com/css?family=Handlee);
 
-header {color:silver;}
-a {color: #DBD2E3;}
+header {color:silver;
+    width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+a {color: gray;}
 a:hover {
-	color: violet;
+	color:#A4A3CD ;
 	font-weight: bold;
 	text-decoration: none;
 }
-h1 {font-family: 'Handlee', cursive; color: #DBD2E3;}
+h1 {font-family: 'Handlee', cursive; color: gray;}
 h2{color: #A4A3CD;}
 h3{color:#A4A3CD;}
 body{font-family:'Handlee', cursive, "Times New Roman", serif;
 
-background-color: #414140; color: white;}
+background-color: #414140; color: white; padding: 25px;}
+
+ .colorsquare{
+        width: 200px;
+        height: 200px;
+        display: inline-block;
+        float: left;
+        }
 
 .color1{width:200px;
-height: 200px; background-color:#DBD2E3; }
+height: 200px; background-color:gray; }
 .color2{width:200px;
-height: 200px; background-color:#A9BBD3; }
+height: 200px; background-color:silver; }
 .color3{width:200px;
 height: 200px; background-color:#A4A3CD; }
 
 
 .site-footer a{
 font-size: 1em;
-color: violet;
+color: gray;
     text-decoration: none;
 }
 
 .site-footer a:hover{
-color: pink; text-decoration: underline;
+color:#A4A3CD ; text-decoration: underline;
+}
+
+
+.scaled-image{
+  max-width: 20%;
+  height: auto;
+}
+
+.image{
+  max-width: auto;
+  height: 40%;
+float: right;
+    border: solid #A4A3CD;
+    
+}
+
+
+    .main {
+        background-color:#DBD2E3 ;
+        width: 60%;
+        height: ;
+        float: left;
+        padding: 50px;
+        border: 5px solid #A4A3CD;
+        margin: 10px;
+        }
+    .sidebar {
+        background-color: #DBD2E3;
+        width: 20%;
+        height: 28.2em;
+        float: right;
+        padding: 40px;
+        border: 5px solid #A4A3CD;
+        margin: 10px
+        }
+
+.content-wrapper{
+        width: 10%;
+    padding:inherit;
+    margin: 0 auto;
+    padding-top: 100px;
+    }
+
+    .site-footer {
+        background-color: #DBD2E3;
+        text-align: center;
+        width: 98%;
+        height: auto;
+        display: inline-block;
+        border: 5px solid #A4A3CD;
+        margin: 10px;
+       
+    
+        }
+
+  ul{
+        list-style: circle;
+        }
+
+
+  body {
+    
+    background-image: url(http://www.designbolts.com/wp-content/uploads/2013/02/Floral-Grey-Seamless-Pattern-For-Website-Background.jpg);
 }
