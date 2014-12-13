@@ -1,0 +1,64 @@
+/*
+Lavendar - #DBD2E3
+Steel Purple - #A9BBD3 
+good purple - #A4A3CD
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Handlee);
+
+ .main {
+         ;
+        width: 67%;
+        height: 58em; 
+     position:absolute;
+    
+     left: 17%;
+    
+        border: 5px solid gray;
+        margin: 10px;
+        font-family: Handlee, cursive, Verdana;
+        color:aqua;
+     font-size: 20px;
+            text-align:center;
+       background-color:black ;
+        width: 60%;
+        float: left;
+        padding: 50px;
+        border: 5px solid yellow;
+        margin: 10px;
+
+        }
+
+.main h1{color: yellow; font-size: 4em;}
+.main h2{color: #a503bd; font-size: 2em;}
+
+
+header {color:silver;
+    width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+}
+a {color: gray;}
+a:hover {
+	color:#A4A3CD ;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1 {font-family: 'Handlee', cursive; color: gray;}
+h2{color: #A4A3CD;}
+h3{color:#A4A3CD;}
+body{font-family:'Handlee', cursive, "Times New Roman", serif;
+
+background-color: magenta; color: white; padding: 25px;}
+
+
+
+
+
+
+
+
+  
+
+
